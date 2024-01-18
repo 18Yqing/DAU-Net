@@ -1,0 +1,95 @@
+[depth_balloons_1.yuv]
+width = 512 
+height = 384
+
+[depth_balloons_3.yuv]
+width = 512 
+height = 384
+
+[depth_balloons_5.yuv]
+width = 512 
+height = 384
+
+[depth_Dancer_1.yuv]
+width = 960
+height = 544
+
+[depth_Dancer_5.yuv]
+width = 960 
+height = 544
+
+[depth_Dancer_9.yuv]
+width = 960 
+height = 544
+
+[depth_kendo_1.yuv]
+width = 512 
+height = 384
+
+[depth_kendo_3.yuv]
+width = 512 
+height = 384
+
+[depth_kendo_5.yuv]
+width = 512 
+height = 384
+
+[depth_newspaper_2.yuv]
+width = 512 
+height = 384
+
+[depth_newspaper_4.yuv]
+width = 512 
+height = 384
+
+[depth_newspaper_6.yuv]
+width = 512 
+height = 384
+
+[depth_Shark_1.yuv]
+width = 960 
+height = 544
+
+[depth_Shark_5.yuv]
+width = 960 
+height = 544
+
+[depth_Shark_9.yuv]
+width = 960 
+height = 544
+
+[GT_Fly_d_1_1920x1088.yuv]
+width = 960 
+height = 544
+
+[GT_Fly_d_5_1920x1088.yuv]
+width = 960 
+height = 544
+
+[GT_Fly_d_9_1920x1088.yuv]
+width = 960 
+height = 544
+
+[Poznan_Hall2_00_1920x1088_depth_cam05.yuv]
+width = 960 
+height = 544
+
+[Poznan_Hall2_00_1920x1088_depth_cam06.yuv]
+width = 960 
+height = 544
+
+[Poznan_Hall2_00_1920x1088_depth_cam07.yuv]
+width = 960 
+height = 544
+
+[Poznan_Street_00_1920x1088_depth_cam03.yuv]
+width = 960 
+height = 544
+
+[Poznan_Street_00_1920x1088_depth_cam04.yuv]
+width = 960 
+height = 544
+
+[Poznan_Street_00_1920x1088_depth_cam05.yuv]
+width = 960 
+height = 544
